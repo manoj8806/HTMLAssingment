@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+  
+ li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #4b4b4b;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    color: black;
+  }
+
+  .navbar {
+      display: inline-block;
+  }
